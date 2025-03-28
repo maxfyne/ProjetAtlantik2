@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fyne\\source\\repos\\Prjt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF844E73-ED75-4B73-8776-1300D65E48E2}|Prjt\\Prjt.csproj|c:\\users\\fyne\\source\\repos\\prjt\\prjt\\formaffichertraversee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF844E73-ED75-4B73-8776-1300D65E48E2}|Prjt\\Prjt.csproj|solutionrelative:prjt\\formaffichertraversee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF844E73-ED75-4B73-8776-1300D65E48E2}|Prjt\\Prjt.csproj|c:\\users\\fyne\\source\\repos\\prjt\\prjt\\liaison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF844E73-ED75-4B73-8776-1300D65E48E2}|Prjt\\Prjt.csproj|solutionrelative:prjt\\liaison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF844E73-ED75-4B73-8776-1300D65E48E2}|Prjt\\Prjt.csproj|c:\\users\\fyne\\source\\repos\\prjt\\prjt\\formaffichertraversee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF844E73-ED75-4B73-8776-1300D65E48E2}|Prjt\\Prjt.csproj|solutionrelative:prjt\\formaffichertraversee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF844E73-ED75-4B73-8776-1300D65E48E2}|Prjt\\Prjt.csproj|C:\\Users\\fyne\\source\\repos\\Prjt\\prjt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF844E73-ED75-4B73-8776-1300D65E48E2}|Prjt\\Prjt.csproj|solutionrelative:prjt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF844E73-ED75-4B73-8776-1300D65E48E2}|Prjt\\Prjt.csproj|C:\\Users\\fyne\\source\\repos\\Prjt\\prjt\\dates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF844E73-ED75-4B73-8776-1300D65E48E2}|Prjt\\Prjt.csproj|solutionrelative:prjt\\dates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF844E73-ED75-4B73-8776-1300D65E48E2}|Prjt\\Prjt.csproj|C:\\Users\\fyne\\source\\repos\\Prjt\\prjt\\bateau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF844E73-ED75-4B73-8776-1300D65E48E2}|Prjt\\Prjt.csproj|solutionrelative:prjt\\bateau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Liaison.cs",
+              "DocumentMoniker": "C:\\Users\\fyne\\source\\repos\\Prjt\\Prjt\\Liaison.cs",
+              "RelativeDocumentMoniker": "Prjt\\Liaison.cs",
+              "ToolTip": "C:\\Users\\fyne\\source\\repos\\Prjt\\Prjt\\Liaison.cs",
+              "RelativeToolTip": "Prjt\\Liaison.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:07:50.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAfficherTraversee.cs",
+              "DocumentMoniker": "C:\\Users\\fyne\\source\\repos\\Prjt\\Prjt\\FormAfficherTraversee.cs",
+              "RelativeDocumentMoniker": "Prjt\\FormAfficherTraversee.cs",
+              "ToolTip": "C:\\Users\\fyne\\source\\repos\\Prjt\\Prjt\\FormAfficherTraversee.cs",
+              "RelativeToolTip": "Prjt\\FormAfficherTraversee.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAowHUAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:15:20.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAfficherTraversee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fyne\\source\\repos\\Prjt\\Prjt\\FormAfficherTraversee.cs",
+              "RelativeDocumentMoniker": "Prjt\\FormAfficherTraversee.cs",
+              "ToolTip": "C:\\Users\\fyne\\source\\repos\\Prjt\\Prjt\\FormAfficherTraversee.cs [Design]",
+              "RelativeToolTip": "Prjt\\FormAfficherTraversee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T09:37:40.853Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dates.cs",
+              "DocumentMoniker": "C:\\Users\\fyne\\source\\repos\\Prjt\\Prjt\\Dates.cs",
+              "RelativeDocumentMoniker": "Prjt\\Dates.cs",
+              "ToolTip": "C:\\Users\\fyne\\source\\repos\\Prjt\\Prjt\\Dates.cs",
+              "RelativeToolTip": "Prjt\\Dates.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:53:01.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bateau.cs",
+              "DocumentMoniker": "C:\\Users\\fyne\\source\\repos\\Prjt\\Prjt\\Bateau.cs",
+              "RelativeDocumentMoniker": "Prjt\\Bateau.cs",
+              "ToolTip": "C:\\Users\\fyne\\source\\repos\\Prjt\\Prjt\\Bateau.cs",
+              "RelativeToolTip": "Prjt\\Bateau.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:40:17.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fyne\\source\\repos\\Prjt\\Prjt\\Program.cs",
+              "RelativeDocumentMoniker": "Prjt\\Program.cs",
+              "ToolTip": "C:\\Users\\fyne\\source\\repos\\Prjt\\Prjt\\Program.cs",
+              "RelativeToolTip": "Prjt\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:35:37.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
